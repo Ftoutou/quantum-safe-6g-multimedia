@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+video.mp4
+*.mp4
+.venv/
+venv/
