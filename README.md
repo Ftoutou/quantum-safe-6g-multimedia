@@ -1,7 +1,7 @@
 # Quantum-Safe Security of Multimedia Traffic in 6G Networks
 
 Experiments for the project **"Quantum Computing Based Security of Multimedia Traffic in 6G Networks"**
-Firas Ftoutou — M2R SIIVA, Institut Supérieur d'Informatique (ISI), University of Tunis El Manar
+Firas Ftoutou: 2nd-year Research Master’s in Intelligent Systems for Imaging and Artificial Vision, Higher Institute of Computer Science - Ariana, University of Tunis El Manar
 Course: *Partage de Contenu Multimédia* — Prof. Rachid Zagrouba (2026)
 
 ## Idea
