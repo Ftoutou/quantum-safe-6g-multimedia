@@ -1,8 +1,8 @@
 # Quantum-Safe Security of Multimedia Traffic in 6G Networks
 
-Experiments for the project **"Quantum Computing Based Security of Multimedia Traffic in 6G Networks"**
+Experiments for the project **"Quantum Computing Based Security of Multimedia Traffic in 6G Networks"**, 
 Firas Ftoutou: 2nd-year Research Master’s in Intelligent Systems for Imaging and Artificial Vision, Higher Institute of Computer Science - Ariana, University of Tunis El Manar
-Course: *Partage de Contenu Multimédia* — Prof. Rachid Zagrouba (2026)
+Course: *Sharing Multimedia Content* : Prof. Rachid Zagrouba 
 
 ## Idea
 
